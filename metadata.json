@@ -1,0 +1,6 @@
+{
+  "name": "PackVoyage Travel Packing Checklist",
+  "description": "Prepare a comprehensive travel packing checklist with categories, item status, and completion percentage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
